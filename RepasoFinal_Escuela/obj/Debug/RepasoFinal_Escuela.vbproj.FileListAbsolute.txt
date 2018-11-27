@@ -1,0 +1,10 @@
+C:\Users\Romina\Documents\ProyectosVisual\RepasoFinal_Escuela\RepasoFinal_Escuela\bin\Debug\RepasoFinal_Escuela.dll
+C:\Users\Romina\Documents\ProyectosVisual\RepasoFinal_Escuela\RepasoFinal_Escuela\bin\Debug\RepasoFinal_Escuela.pdb
+C:\Users\Romina\Documents\ProyectosVisual\RepasoFinal_Escuela\RepasoFinal_Escuela\bin\Debug\RepasoFinal_Escuela.xml
+C:\Users\Romina\Documents\ProyectosVisual\RepasoFinal_Escuela\RepasoFinal_Escuela\obj\Debug\RepasoFinal_Escuela.vbprojAssemblyReference.cache
+C:\Users\Romina\Documents\ProyectosVisual\RepasoFinal_Escuela\RepasoFinal_Escuela\obj\Debug\RepasoFinal_Escuela.Resources.resources
+C:\Users\Romina\Documents\ProyectosVisual\RepasoFinal_Escuela\RepasoFinal_Escuela\obj\Debug\RepasoFinal_Escuela.vbproj.GenerateResource.cache
+C:\Users\Romina\Documents\ProyectosVisual\RepasoFinal_Escuela\RepasoFinal_Escuela\obj\Debug\RepasoFinal_Escuela.vbproj.CoreCompileInputs.cache
+C:\Users\Romina\Documents\ProyectosVisual\RepasoFinal_Escuela\RepasoFinal_Escuela\obj\Debug\RepasoFinal_Escuela.dll
+C:\Users\Romina\Documents\ProyectosVisual\RepasoFinal_Escuela\RepasoFinal_Escuela\obj\Debug\RepasoFinal_Escuela.xml
+C:\Users\Romina\Documents\ProyectosVisual\RepasoFinal_Escuela\RepasoFinal_Escuela\obj\Debug\RepasoFinal_Escuela.pdb

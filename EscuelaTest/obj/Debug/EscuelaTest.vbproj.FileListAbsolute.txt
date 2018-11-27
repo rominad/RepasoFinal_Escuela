@@ -1,0 +1,15 @@
+C:\Users\Romina\Documents\ProyectosVisual\RepasoFinal_Escuela\EscuelaTest\bin\Debug\EscuelaTest.exe.config
+C:\Users\Romina\Documents\ProyectosVisual\RepasoFinal_Escuela\EscuelaTest\bin\Debug\EscuelaTest.exe
+C:\Users\Romina\Documents\ProyectosVisual\RepasoFinal_Escuela\EscuelaTest\bin\Debug\EscuelaTest.pdb
+C:\Users\Romina\Documents\ProyectosVisual\RepasoFinal_Escuela\EscuelaTest\bin\Debug\EscuelaTest.xml
+C:\Users\Romina\Documents\ProyectosVisual\RepasoFinal_Escuela\EscuelaTest\bin\Debug\RepasoFinal_Escuela.dll
+C:\Users\Romina\Documents\ProyectosVisual\RepasoFinal_Escuela\EscuelaTest\bin\Debug\RepasoFinal_Escuela.pdb
+C:\Users\Romina\Documents\ProyectosVisual\RepasoFinal_Escuela\EscuelaTest\bin\Debug\RepasoFinal_Escuela.xml
+C:\Users\Romina\Documents\ProyectosVisual\RepasoFinal_Escuela\EscuelaTest\obj\Debug\EscuelaTest.vbprojAssemblyReference.cache
+C:\Users\Romina\Documents\ProyectosVisual\RepasoFinal_Escuela\EscuelaTest\obj\Debug\EscuelaTest.Resources.resources
+C:\Users\Romina\Documents\ProyectosVisual\RepasoFinal_Escuela\EscuelaTest\obj\Debug\EscuelaTest.vbproj.GenerateResource.cache
+C:\Users\Romina\Documents\ProyectosVisual\RepasoFinal_Escuela\EscuelaTest\obj\Debug\EscuelaTest.vbproj.CoreCompileInputs.cache
+C:\Users\Romina\Documents\ProyectosVisual\RepasoFinal_Escuela\EscuelaTest\obj\Debug\EscuelaTest.vbproj.CopyComplete
+C:\Users\Romina\Documents\ProyectosVisual\RepasoFinal_Escuela\EscuelaTest\obj\Debug\EscuelaTest.exe
+C:\Users\Romina\Documents\ProyectosVisual\RepasoFinal_Escuela\EscuelaTest\obj\Debug\EscuelaTest.xml
+C:\Users\Romina\Documents\ProyectosVisual\RepasoFinal_Escuela\EscuelaTest\obj\Debug\EscuelaTest.pdb
